@@ -3,10 +3,12 @@ A Web 3.0 Blockchain Application designed to send Ethereum using Metamask wallet
 
 <img width="1440" alt="pic1" src="https://github.com/sameersk2k/Ethereum-Pay-App/assets/115322069/04d3e2a8-65ff-480e-9576-06695b2b29aa">
 
-
 <img width="1440" alt="pic2" src="https://github.com/sameersk2k/Ethereum-Pay-App/assets/115322069/96821282-343a-4ab5-9718-97f4f80f605c">
 
 <img width="1337" alt="pic3" src="https://github.com/sameersk2k/Ethereum-Pay-App/assets/115322069/eb01324c-53b8-4878-8d1b-39a4f2f890c0">
+
+<img width="1440" alt="pic4" src="https://github.com/sameersk2k/Ethereum-Pay-App/assets/115322069/675957b5-4bf9-492a-befc-23cf5dc57ea3">
+
 
 <img width="360" alt="pic5" src="https://github.com/sameersk2k/Ethereum-Pay-App/assets/115322069/45241578-03de-4990-84c3-d597b02d34f8">
 
