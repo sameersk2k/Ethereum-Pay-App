@@ -1,6 +1,8 @@
 # Ethereum-Pay-App
 A Web 3.0 Blockchain Application designed to send Ethereum through blockchain using custom deployed smart contract and integrating MetaMask wallet.
 
+Web 3.0 Application Link: https://heartfelt-entremet-943db5.netlify.app
+
 <img width="1440" alt="pic1" src="https://github.com/sameersk2k/Ethereum-Pay-App/assets/115322069/04d3e2a8-65ff-480e-9576-06695b2b29aa">
 
 <img width="1440" alt="pic2" src="https://github.com/sameersk2k/Ethereum-Pay-App/assets/115322069/96821282-343a-4ab5-9718-97f4f80f605c">
